@@ -12,7 +12,7 @@ const testimonials = [
   {
     name: 'Ahmed Kahloun',
     role: 'CS Student ',
-    image: 'https://scontent.ftun10-2.fna.fbcdn.net/v/t39.30808-1/411483150_3151966641613788_4884627781505345009_n.jpg?stp=dst-jpg_s160x160_tt6&_nc_cat=108&ccb=1-7&_nc_sid=e99d92&_nc_ohc=EvuaR-5GTC4Q7kNvwGrMErk&_nc_oc=AdkgJ3ggngiMV1IT8rvkjfctti0vfiu8YnONLqhfWtj0WqoJP8v0D8V0kzw9FctiJFU&_nc_zt=24&_nc_ht=scontent.ftun10-2.fna&_nc_gid=-n54_teZ1qx2xMcewkhBWg&oh=00_AfOSIFsZ0v_dGJfz62fSd12n9Rz7Bijjpwgr446GAOhWWg&oe=6853CC75',
+    image: 'https://media.licdn.com/dms/image/v2/D4D03AQHZM4AduJZoMw/profile-displayphoto-shrink_400_400/B4DZWLwbCvGcAg-/0/1741806488553?e=1764806400&v=beta&t=m4SIlKsTMnu1eUr0-MaiKosdiTUjS2fJiGrBTR4J2z0',
     quote: 'The community aspect of T-Wenza is incredible. I found study partners and mentors who helped me land my dream job.',
   },
   {
