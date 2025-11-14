@@ -12,17 +12,17 @@ const About = () => {
     {
       name: 'Nour Jeday',
       role: 'CEO',
-      image: 'https://scontent.ftun10-1.fna.fbcdn.net/v/t39.30808-1/455079092_2138851949819543_7304587416349355874_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=105&ccb=1-7&_nc_sid=e99d92&_nc_ohc=McP12MGygAAQ7kNvwEQAsBf&_nc_oc=Adn2wGxV3hJoQ4QMVxN64qlN9lITcdbiwtirwZ5VCpQBaXNZpVz65Qd5FRMh0GMIJSg&_nc_zt=24&_nc_ht=scontent.ftun10-1.fna&_nc_gid=1Ged2wATPareVpT1VUAhRg&oh=00_AfNjlkQtuAxDQI_nftJwn2GMbh60gUmJhtUrNZJrTeQc8g&oe=6853B375https://scontent.ftun10-1.fna.fbcdn.net/v/t39.30808-1/455079092_2138851949819543_7304587416349355874_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=105&ccb=1-7&_nc_sid=e99d92&_nc_ohc=McP12MGygAAQ7kNvwEQAsBf&_nc_oc=Adn2wGxV3hJoQ4QMVxN64qlN9lITcdbiwtirwZ5VCpQBaXNZpVz65Qd5FRMh0GMIJSg&_nc_zt=24&_nc_ht=scontent.ftun10-1.fna&_nc_gid=1Ged2wATPareVpT1VUAhRg&oh=00_AfNjlkQtuAxDQI_nftJwn2GMbh60gUmJhtUrNZJrTeQc8g&oe=6853B375',
+      image: '/nourjeday.jpg',
     },
     {
       name: 'Ahmed Kahloun',
       role: 'CTO',
-      image: 'https://scontent.ftun10-2.fna.fbcdn.net/v/t39.30808-1/411483150_3151966641613788_4884627781505345009_n.jpg?stp=dst-jpg_s160x160_tt6&_nc_cat=108&ccb=1-7&_nc_sid=e99d92&_nc_ohc=EvuaR-5GTC4Q7kNvwGrMErk&_nc_oc=AdkgJ3ggngiMV1IT8rvkjfctti0vfiu8YnONLqhfWtj0WqoJP8v0D8V0kzw9FctiJFU&_nc_zt=24&_nc_ht=scontent.ftun10-2.fna&_nc_gid=-n54_teZ1qx2xMcewkhBWg&oh=00_AfOSIFsZ0v_dGJfz62fSd12n9Rz7Bijjpwgr446GAOhWWg&oe=6853CC75',
+      image: '/ahmedkahloun.jpg',
     },
     {
       name: 'Nour Nsiri',
       role: 'CFO',
-      image: 'https://scontent.ftun10-2.fna.fbcdn.net/v/t39.30808-1/458969929_3786362025025955_3354053683432114440_n.jpg?stp=cp6_dst-jpg_s200x200_tt6&_nc_cat=108&ccb=1-7&_nc_sid=e99d92&_nc_ohc=OwFmEgY-1cIQ7kNvwHEtjBG&_nc_oc=AdkEXs7aX6ZgBBaQYujToAhpPEtKc3v8ZJUpK4Y5piuvn1_1eJqxNgD0AHuN7RnzTnc&_nc_zt=24&_nc_ht=scontent.ftun10-2.fna&_nc_gid=-CnOncrWW-UkgVAlM_ZMwg&oh=00_AfPelpSn0mpBbsO4DoyReEgGB0bXlnUeYY8xsmaj9alU4A&oe=6853AD3E',
+      image: '/nournsiri.jpg',
     },
   ];
 

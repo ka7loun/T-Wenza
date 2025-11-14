@@ -31,7 +31,7 @@ const Hero = () => {
           <div className="hidden lg:block relative">
             <div className="relative group cursor-pointer">
               <img 
-                src="https://scontent.ftun10-2.fna.fbcdn.net/v/t1.15752-9/479938786_1341806123426646_1837391323742674079_n.png?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_ohc=BVTeI0ITRTEQ7kNvwHbk5WW&_nc_oc=Adlxq8GQLLKT0u3Y5bEGYQnq7p0pLtuhHN6Mi56bI_73ZXSaYN3oSKx4Tfggbgvgr4w&_nc_zt=23&_nc_ht=scontent.ftun10-2.fna&oh=03_Q7cD2gGKAkciVCIGZPjt7sU1pVDi66NgRcgynUrs3_OZYDmuvw&oe=687544F6"
+                src="/hero-elephant-image.jpg"
                 alt="T-Wenza Elephant Mascot"
                 className="rounded-lg shadow-2xl transform -rotate-2 hover:rotate-0 transition-all duration-500 hover:scale-105 float-animation"
               />
