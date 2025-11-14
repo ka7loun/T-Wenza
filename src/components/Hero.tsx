@@ -31,7 +31,7 @@ const Hero = () => {
           <div className="hidden lg:block relative">
             <div className="relative group cursor-pointer">
               <img 
-                src="/hero-elephant-image.jpg"
+                src="/hero_elephent_image-removebg-preview.png"
                 alt="T-Wenza Elephant Mascot"
                 className="rounded-lg shadow-2xl transform -rotate-2 hover:rotate-0 transition-all duration-500 hover:scale-105 float-animation"
               />
